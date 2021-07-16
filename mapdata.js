@@ -22,7 +22,7 @@ var simplemaps_worldmap_mapdata={
     location_opacity: 0.8,
     location_hover_opacity: 1,
     location_url: "",
-    location_size: "10",
+    location_size: "11",
     location_type: "circle",
     location_image_source: "frog.png",
     location_border_color: "#FFFFFF",
@@ -933,14 +933,17 @@ var simplemaps_worldmap_mapdata={
       lng: "74.569763",
       description: "Our team arrange",
       name: "Golf opportunity",
-      image_url: "https://www.cdsgolfclub.com/wp-content/uploads/2020/02/win-golf.jpg"
+      image_url: "https://www.cdsgolfclub.com/wp-content/uploads/2020/02/win-golf.jpg",
+      color: "#5f5db5",
+      size: "13",
+      opacity: "1"
     },
     "1": {
       lat: "51.511486",
       lng: "-0.115997",
       name: "King's College London, Strand, London, UK",
       description: "Public\nFor questions, please contact: \nzeyna.malik@gmail.com",
-      url: "https://www.kcl.ac.uk/",
+      url: "https://www.kanat.cf/countries/united_kingdom/kings_college_london",
       image_url: "https://padlet.pics/1/image?t=c_limit,dpr_1,w_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1262804924%2Ffdbd3cfdbfe0bdce072630791121cb2c%2Fdownload__27_.jpeg"
     },
     "2": {
@@ -948,7 +951,7 @@ var simplemaps_worldmap_mapdata={
       lng: "-1.050370",
       name: "University of York, Heslington, York, UK",
       description: "4-year\nPublic\nMedium\nSuburban\nFor questions, please contact: \ndaniella@paulraphael.com",
-      url: "https://www.york.ac.uk/"
+      url: "https://www.kanat.cf/countries/united_kingdom/university_of_york"
     },
     "3": {
       lat: "52.220180",
@@ -1098,6 +1101,21 @@ var simplemaps_worldmap_mapdata={
       lng: "-72.922343",
       name: "Yale University, New Haven, CT, USA",
       description: "4-year\nPrivate\nMedium\nUrban\nFor questions, please contact:"
+    },
+    "30": {
+      lat: "23.360821",
+      lng: "116.677490",
+      url: "https://www.kanat.cf/kanat-jays/",
+      name: "Golf lesson",
+      description: "We organize golf lessons every three months.",
+      color: "#5f5db5"
+    },
+    "31": {
+      lat: "52.630886",
+      lng: "1.297355",
+      name: "Carpentry lesson",
+      color: "#5f5db5",
+      description: "We organize carpentry lessons every three months, anybody can participate."
     }
   },
   labels: {},
