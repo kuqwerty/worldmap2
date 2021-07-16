@@ -1105,7 +1105,7 @@ var simplemaps_worldmap_mapdata={
     "30": {
       lat: "23.360821",
       lng: "116.677490",
-      url: "https://www.kanat.cf/kanat-jays/",
+      url: "https://www.kanat.cf/kanat-jays/golf",
       name: "Golf lesson",
       description: "We organize golf lessons every three months.",
       color: "#5f5db5"
@@ -1115,7 +1115,8 @@ var simplemaps_worldmap_mapdata={
       lng: "1.297355",
       name: "Carpentry lesson",
       color: "#5f5db5",
-      description: "We organize carpentry lessons every three months, anybody can participate."
+      description: "We organize carpentry lessons every three months, anybody can participate.",
+      url: "https://www.kanat.cf/kanat-jays/carpentry"
     }
   },
   labels: {},
